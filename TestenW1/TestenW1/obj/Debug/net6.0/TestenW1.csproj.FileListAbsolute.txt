@@ -1,0 +1,14 @@
+C:\Users\jijwe\Desktop\Testen\TestenW1\TestenW1\obj\Debug\net6.0\TestenW1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jijwe\Desktop\Testen\TestenW1\TestenW1\obj\Debug\net6.0\TestenW1.AssemblyInfoInputs.cache
+C:\Users\jijwe\Desktop\Testen\TestenW1\TestenW1\obj\Debug\net6.0\TestenW1.AssemblyInfo.cs
+C:\Users\jijwe\Desktop\Testen\TestenW1\TestenW1\obj\Debug\net6.0\TestenW1.csproj.CoreCompileInputs.cache
+C:\Users\jijwe\Desktop\Testen\TestenW1\TestenW1\bin\Debug\net6.0\TestenW1.exe
+C:\Users\jijwe\Desktop\Testen\TestenW1\TestenW1\bin\Debug\net6.0\TestenW1.deps.json
+C:\Users\jijwe\Desktop\Testen\TestenW1\TestenW1\bin\Debug\net6.0\TestenW1.runtimeconfig.json
+C:\Users\jijwe\Desktop\Testen\TestenW1\TestenW1\bin\Debug\net6.0\TestenW1.dll
+C:\Users\jijwe\Desktop\Testen\TestenW1\TestenW1\bin\Debug\net6.0\TestenW1.pdb
+C:\Users\jijwe\Desktop\Testen\TestenW1\TestenW1\obj\Debug\net6.0\TestenW1.dll
+C:\Users\jijwe\Desktop\Testen\TestenW1\TestenW1\obj\Debug\net6.0\refint\TestenW1.dll
+C:\Users\jijwe\Desktop\Testen\TestenW1\TestenW1\obj\Debug\net6.0\TestenW1.pdb
+C:\Users\jijwe\Desktop\Testen\TestenW1\TestenW1\obj\Debug\net6.0\TestenW1.genruntimeconfig.cache
+C:\Users\jijwe\Desktop\Testen\TestenW1\TestenW1\obj\Debug\net6.0\ref\TestenW1.dll
